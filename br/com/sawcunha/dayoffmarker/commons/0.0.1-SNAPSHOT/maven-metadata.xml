@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.com.sawcunha.dayoffmarker</groupId>
+  <artifactId>commons</artifactId>
+  <versioning>
+    <lastUpdated>20220729211428</lastUpdated>
+    <snapshot>
+      <timestamp>20220729.211428</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20220729.211428-1</value>
+        <updated>20220729211428</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20220729.211428-1</value>
+        <updated>20220729211428</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>

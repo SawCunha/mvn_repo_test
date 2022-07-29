@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.com.sawcunha.dayoffmarker</groupId>
+  <artifactId>commons</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220729211428</lastUpdated>
+  </versioning>
+</metadata>
